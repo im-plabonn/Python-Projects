@@ -1,4 +1,4 @@
-#Cricket Net Run Rate Calculator
+# Cricket Net Run Rate Calculator
 
 A simple and interactive **Net Run Rate (NRR) Calculator** built using **Python + Gradio UI**.  
 This tool calculates the NRR of two cricket teams based on match statistics.
@@ -7,7 +7,7 @@ This tool calculates the NRR of two cricket teams based on match statistics.
 
 ---
 
-##Features
+## Features
 - Clean and responsive Gradio interface
 - Calculates NRR for both teams instantly
 - Error handling for invalid overs (division by zero)
@@ -16,7 +16,7 @@ This tool calculates the NRR of two cricket teams based on match statistics.
 
 ---
 
-##What is Net Run Rate (NRR)?
+## What is Net Run Rate (NRR)?
 
 Net Run Rate is a statistical method used in cricket tournaments to rank teams with equal points.
 
@@ -31,7 +31,7 @@ Team2 NRR = − (Team1 NRR)
 
 ---
 
-##How the Calculation Works (Logic Flow)
+## How the Calculation Works (Logic Flow)
 
 1. User enters:
    - Team names
@@ -52,7 +52,7 @@ Team2 NRR = − (Team1 NRR)
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 - Python
 - Gradio (Blocks UI API)
 - Hosted on Hugging Face Spaces
