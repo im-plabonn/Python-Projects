@@ -10,7 +10,7 @@ A Python-based automation tool that allows users to log daily expenses through a
 
 <p>
 Try it here:<br>
-<a href="https://huggingface.co/spaces/im-plabonn/bmi](https://huggingface.co/spaces/im-plabonn/Daily-Expense-Tracker" target="_blank">
+<a href="https://huggingface.co/spaces/im-plabonn/Daily-Expense-Tracker" target="_blank">
 Daily Expense Tracker on Hugging Face
 </a>
 </p>
