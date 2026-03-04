@@ -1,71 +1,125 @@
-Daily Expense Tracker
-A Python-based automation tool that allows users to log their daily expenses through a web interface and automatically saves the data to a Google Sheet. This project leverages the Google Sheets API for data persistence and Gradio for a user-friendly web interface.
+<h1 align="center">💸 Daily Expense Tracker</h1>
 
-Live Demo
-You can access the live application here: Daily Expense Tracker on Hugging Face
+<p align="center">
+A Python-based automation tool that allows users to log daily expenses through a web interface and automatically store the data in Google Sheets.
+</p>
 
-Features
-Interactive Web Interface: Built with Gradio for easy data entry.
+<hr>
 
-Custom Category Support: Users can manually enter any category name for their expenses.
+<h2>Live Demo</h2>
 
-Automated Date Logging: Automatically captures the current date for every entry.
+<p>
+Try it here:<br>
+<a href="https://huggingface.co/spaces/im-plabonn/bmi](https://huggingface.co/spaces/im-plabonn/Daily-Expense-Tracker" target="_blank">
+Daily Expense Tracker on Hugging Face
+</a>
+</p>
 
-Google Sheets Integration: Real-time data synchronization using the Google Sheets API.
+<hr>
 
-Secure Credential Management: Uses environment variables (Secrets) to handle sensitive API keys.
+<h2>Features</h2>
 
-Technologies Used
-Python: Core programming language.
+<ul>
+<li><b>Interactive Web Interface</b> – Built with Gradio for smooth and easy data entry.</li>
+<li><b>Custom Category Support</b> – Users can manually enter any expense category.</li>
+<li><b>Automated Date Logging</b> – Automatically records the current date with each entry.</li>
+<li><b>Real-Time Google Sheets Sync</b> – Integrated with Google Sheets API for instant cloud storage.</li>
+<li><b>Secure Authentication</b> – Uses environment variables (Secrets) to protect sensitive credentials.</li>
+<li><b>Cloud Deployment</b> – Hosted on Hugging Face Spaces for public access.</li>
+</ul>
 
-Gradio: For creating the web-based user interface.
+<hr>
 
-Google Sheets API: For cloud-based data storage.
+<h2>Technologies Used</h2>
 
-Google Auth: For secure service account authentication.
+<ul>
+<li><b>Python</b> – Core programming language</li>
+<li><b>Gradio</b> – Web interface creation</li>
+<li><b>Google Sheets API</b> – Cloud-based data storage</li>
+<li><b>Google Auth</b> – Secure service account authentication</li>
+<li><b>Hugging Face Spaces</b> – Application hosting</li>
+</ul>
 
-Hugging Face Spaces: For hosting the application.
+<hr>
 
-Project Structure
-Plaintext
+<h2>Project Structure</h2>
+
+<pre>
 Automato-Hub/
 ├── 01_Expense_Tracker/
-│   ├── app.py              # Main application code
-│   └── requirements.txt    # List of required Python libraries
-├── .gitignore              # To prevent sensitive files from being uploaded
-└── README.md               # Project documentation
-Setup and Installation
-Prerequisites
-A Google Cloud Project with the Google Sheets API enabled.
+│   ├── app.py
+│   └── requirements.txt
+├── .gitignore
+└── README.md
+</pre>
 
-A Service Account with a generated JSON key file.
+<hr>
 
-A Google Sheet shared with the Service Account's email address.
+<h2>Setup and Installation</h2>
 
-Local Setup
-Clone the repository:
+<h3>Prerequisites</h3>
 
-Bash
+<ul>
+<li>A Google Cloud Project with Google Sheets API enabled</li>
+<li>A Service Account with a generated JSON key file</li>
+<li>A Google Sheet shared with the Service Account’s email</li>
+</ul>
+
+<h3>Local Setup</h3>
+
+<p><b>Clone the Repository</b></p>
+
+<pre>
 git clone https://github.com/your-username/Automato-Hub.git
-Navigate to the project folder:
+</pre>
 
-Bash
+<p><b>Navigate to the Project Folder</b></p>
+
+<pre>
 cd 01_Expense_Tracker
-Install dependencies:
+</pre>
 
-Bash
+<p><b>Install Dependencies</b></p>
+
+<pre>
 pip install -r requirements.txt
-Place your credentials.json file in the root directory.
+</pre>
 
-Set up your environment variables for SHEET_ID.
+<p><b>Add Credentials</b></p>
 
-Run the application:
+<ul>
+<li>Place your <code>credentials.json</code> file in the root directory</li>
+<li>Set environment variable for <code>SHEET_ID</code></li>
+</ul>
 
-Bash
+<p><b>Run the Application</b></p>
+
+<pre>
 python app.py
-Security Note
-This project follows security best practices by not including the credentials.json file in the version control system. For cloud deployment (like Hugging Face), credentials must be stored in the platform's Secrets/Environment Variables section as a string.
+</pre>
 
-Author
-Habibur Rahman Plabon
-Computer Science and Engineering Student at Feni University
+<hr>
+
+<h2>Security Best Practices</h2>
+
+<ul>
+<li>The <code>credentials.json</code> file is excluded from version control using <code>.gitignore</code></li>
+<li>For cloud deployment (Hugging Face Spaces), credentials must be stored in the platform's Secrets section</li>
+<li>No sensitive API keys are publicly exposed</li>
+</ul>
+
+<hr>
+
+<h2>Author</h2>
+
+<p>
+<b>Habibur Rahman Plabon</b><br>
+Computer Science & Engineering Student<br>
+Feni University
+</p>
+
+<hr>
+
+<p align="center">
+⭐ If you like this project, consider giving it a star!
+</p>
