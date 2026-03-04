@@ -20,7 +20,7 @@ SPREADSHEET_ID = os.getenv("SHEET_ID")
 def add_expense(amount, category):
     # Empty check: User jodi kicu na likhe submit kore
     if not category or amount <= 0:
-        return "⚠️ Please enter a valid amount and category name."
+        return "Please enter a valid amount and category name."
         
     try:
         sheet = get_sheet_service()
@@ -37,13 +37,13 @@ def add_expense(amount, category):
             insertDataOption="INSERT_ROWS",
             body=body
         ).execute()
-        return f"✅ Success! Saved {amount} TK in '{category}'"
+        return f"Success! Saved {amount} TK in '{category}'"
     except Exception as e:
-        return f"❌ Error: {str(e)}"
+        return f"Error: {str(e)}"
 
 # --- Gradio UI ---
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# 💰 My Personal Expense Tracker")
+    gr.Markdown("# My Personal Expense Tracker")
     gr.Markdown("Enter your expense details below to save them directly to Google Sheets.")
     
     with gr.Row():
