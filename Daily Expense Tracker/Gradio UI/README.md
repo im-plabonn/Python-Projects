@@ -15,6 +15,13 @@ Daily Expense Tracker on Hugging Face
 </a>
 </p>
 
+<p>
+Live Google Sheet:<br>
+<a href="https://docs.google.com/spreadsheets/d/16uCnApk6_KNda9u9shtQN_SiKu0Mn3gdBpAXkwojLSM/edit?usp=sharing" target="_blank">
+Click Here to View Your Submitted Data
+</a>
+</p>
+
 <hr>
 
 <h2>Features</h2>
