@@ -2,7 +2,7 @@
 
 <p>A simple yet efficient Python tool that generates creative and professional username suggestions based on a user's first and last name.</p>
 
-<p><strong>Live Project:</strong> <a https://huggingface.co/spaces/im-plabonn/Username-Generator" target="_blank">Username Generator - Click Here to View</a></p>
+<p><strong>Live Project:</strong> <a href="https://huggingface.co/spaces/im-plabonn/Username-Generator" target="_blank">Username Generator - Huggingface</a></p>
 
 <h2>Key Features:</h2>
 <ul>
