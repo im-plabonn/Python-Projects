@@ -9,7 +9,6 @@ def generate_usernames(first_name, last_name):
     
     html = "<div style='display: flex; flex-direction: column; gap: 5px;'>"
     for u in usernames:
-        # প্রতিটি নামের পাশে একটি বাটন যা ক্লিপবোর্ডে কপি করবে
         html += f"""
         <div style='padding: 5px; background: #4f46e5; border: 1px solid #ddd; border-radius: 5px; display: flex; justify-content: space-between; align-items: center;'>
             <span>{u}</span>
