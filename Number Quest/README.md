@@ -25,7 +25,7 @@ Number Quest - Hugging Face
 <h2>Key Features: </h2>
 
 <ul>
-<li><b>Dynamic Difficulty:</b> Choose between Easy (1-10), Medium (1-15), or Hard (1-20) modes.</li>
+<li><b>Dynamic Difficulty:</b> Choose between Easy (1-5), Medium (1-10), or Hard (1-15) modes.</li>
 <li><b>Intuitive UI:</b> Clean, responsive, and user-friendly interface powered by Gradio's Blocks API.</li>
 <li><b>Psychological Engagement:</b> Gamified result tracking with accuracy percentages to encourage competition.</li>
 <li><b>Social Sharing:</b> One-click Facebook integration that allows users to share their scores directly to their timeline with a pre-filled draft text.</li>
