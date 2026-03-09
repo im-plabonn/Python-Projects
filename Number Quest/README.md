@@ -1,7 +1,7 @@
 <h1>Number Quest: The Ultimate Number Guessing Challenge</h1>
 
 <p>
-<b>Digit Dash</b> is a lightweight, interactive, and highly addictive web-based number guessing game. 
+<b>Number Quest</b> is a lightweight, interactive, and highly addictive web-based number guessing game. 
 Designed to test your logic and intuition, this project provides a seamless user experience with 
 dynamic difficulty levels and social media integration.
 </p>
@@ -9,7 +9,7 @@ dynamic difficulty levels and social media integration.
 <p>
 <b>Live Demo:</b> 
 <a href="https://huggingface.co/spaces/im-plabonn/Number-Quest">
-https://huggingface.co/spaces/im-plabonn/Number-Quest
+Number Quest - Hugging Face
 </a>
 </p>
 
