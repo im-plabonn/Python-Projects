@@ -1,11 +1,11 @@
 <h1 align="center">TraceNet: Real-Time Network Tester</h1>
 
-<p align="center">
+<p align="Left">
 Internet Speed Checker is a lightweight and efficient web-based tool designed to measure your network performance accurately. 
 With a clean, minimalist UI, it provides instant insights into your download, upload, and latency speeds.
 </p>
 
-<p align="center">
+<p align="left">
 <strong>TraceNet Live:</strong> 
 <a href="https://huggingface.co/spaces/im-plabonn/TraceNet" target="_blank">
 https://huggingface.co/spaces/im-plabonn/TraceNet
@@ -14,7 +14,7 @@ https://huggingface.co/spaces/im-plabonn/TraceNet
 
 <hr>
 
-<h2>⚙️ Tech Stack</h2>
+<h2>Tech Stack: </h2>
 
 <ul>
 <li><strong>Programming Language:</strong> Python 3.x</li>
@@ -25,7 +25,7 @@ https://huggingface.co/spaces/im-plabonn/TraceNet
 
 <hr>
 
-<h2>🚀 Key Features</h2>
+<h2>Key Features: </h2>
 
 <ul>
 <li><strong>Real-time Diagnostics:</strong> Instantly measures download speed (Mbps), upload speed (Mbps), and ping (ms).</li>
@@ -36,7 +36,7 @@ https://huggingface.co/spaces/im-plabonn/TraceNet
 
 <hr>
 
-<h2>🧠 How It Works</h2>
+<h2>How It Works:</h2>
 
 <ol>
 <li><strong>Initiate Test:</strong> Simply click the <em>"Run Speed Test"</em> button.</li>
@@ -46,7 +46,7 @@ https://huggingface.co/spaces/im-plabonn/TraceNet
 
 <hr>
 
-<h2>🎯 Purpose & Goal</h2>
+<h2>Purpose & Goal: </h2>
 
 <p>This project is built to demonstrate:</p>
 
