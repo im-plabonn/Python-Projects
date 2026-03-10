@@ -1,6 +1,6 @@
-<h1 align="center">TraceNet: Real-Time Network Tester</h1>
+<h1 align="left">TraceNet: Real-Time Network Tester</h1>
 
-<p align="Left">
+<p align="left">
 Internet Speed Checker is a lightweight and efficient web-based tool designed to measure your network performance accurately. 
 With a clean, minimalist UI, it provides instant insights into your download, upload, and latency speeds.
 </p>
@@ -8,7 +8,7 @@ With a clean, minimalist UI, it provides instant insights into your download, up
 <p align="left">
 <strong>TraceNet Live:</strong> 
 <a href="https://huggingface.co/spaces/im-plabonn/TraceNet" target="_blank">
-https://huggingface.co/spaces/im-plabonn/TraceNet
+TraceNet - Hugging Face
 </a>
 </p>
 
