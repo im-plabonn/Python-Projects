@@ -1,5 +1,6 @@
 import gradio as gr
 
+#Formula: Weight/(Height*Height). Made by Adolphe Quetelet
 def calculate_bmi(name, weight, height_cm):
     try:
         # Height-ke meter-e convert kora (User height cm-e dibe)
