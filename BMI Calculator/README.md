@@ -33,3 +33,5 @@ Height in Meter
 
 Formula: Weight/(Height*Height)
 
+THe formula was made by Adolphe Quetelet, a Belgian astronomer, mathematician, and statistician, between 1830 and 1850. 
+
