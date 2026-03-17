@@ -28,4 +28,8 @@ https://huggingface.co/spaces/im-plabonn/bmi
 
 ## How BMI Works
 BMI (Body Mass Index) is calculated using the formula:
+Weight in KG
+Height in Meter
+
+Formula: Weight/(Height*Height)
 
