@@ -1,4 +1,5 @@
 <h1>Number Quest: The Ultimate Number Guessing Challenge</h1>
+<h2>Some of the cool features will be added soon!</h2>
 
 <p>
 <b>Number Quest</b> is a lightweight, interactive, and highly addictive web-based number guessing game. 
