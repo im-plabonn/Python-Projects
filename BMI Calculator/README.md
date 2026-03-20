@@ -1,4 +1,5 @@
 # BMI Calculator (Gradio UI)
+<h2>Some cool features will be added soon! Stay Tuned!</h2>
 
 A simple and interactive **BMI Calculator** built using Python and Gradio.  
 This app allows users to input their height and weight and instantly see their Body Mass Index along with the health category.
