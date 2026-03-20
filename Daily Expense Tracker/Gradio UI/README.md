@@ -1,5 +1,5 @@
 <h1 align="center">Daily Expense Tracker</h1>
-### Some of the cool features will be added soon!
+<h2>Some cool features will be added soon! Stay Tuned!</h2>
 
 <p align="center">
 A Python-based automation tool that allows users to log daily expenses through a web interface and automatically store the data in Google Sheets.
