@@ -1,2 +1,2 @@
 # Net Run Rate Calculator
-### Other details wil being added soon!
+<h2>Some cool features will be added soon! Stay Tuned!</h2>
